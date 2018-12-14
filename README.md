@@ -6,20 +6,34 @@ I am a former journalist and content marketer specialising in sectors as diverse
 
 #### Analysis
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+During my journalistic career I developed an ability to understand and simplify complex ideas and stories and convey them to a specific audience. A good example of this is Windpower Monthly magazine, which I joined without any experience of knowledge of the renewable energy and wind turbine engineering. Within weeks I was able to understand and create content for a highly knowledeable audience.
 
-- Experience
-- Achievements
-- Evidence
+- Experience - Marketing Magazine, Brand Republic, Windpower Monthly.
+- Achievements - Launched Windpowermonthly.com, which was nominated as Best Business Magazine Site by the Periodical Publishers Association in 2013. 
 
-#### Another Skill
+#### Creativity
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+A key strength is the ability to solve problems creatively. A good example of this was during my time at Twitter where I ran the World Cup 2018 B2B marketing campaign for EMEA. In journalism, I worked with the sales team to create revenue driving products and introduced live video to events while at Windpower Monthly. 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Windpower Monthly: launched site and built it up to the biggest worldwide wind energy site within a year.
+- Created features ideas and supplements. Other examples include introducing live video from events. 
+- Produced Javascript-based applications for viewing complex data. 
+
+#### Management
+
+During my journalistic career I worked up from reporter on a print title to building and editing online titles. Frequently, this involved collaborating with the engineering teams, as well as sales, events and other areas of the company. Separately, I have also been responsible for training and bringing through new reporters on the team, and managing external correspondents. 
+
+- Launching new 
+- Created features ideas and supplements. Other examples include introducing live video from events. 
+- Produced Javascript-based applications for viewing complex data. 
+
+#### Self-Starter
+
+During my journalistic career I worked up from reporter on a print title to building and editing online titles. Frequently, this involved collaborating with the engineering teams, as well as sales, events and other areas of the company. Separately, I have also been responsible for training and bringing through new reporters on the team, and managing external correspondents. 
+
+- Launching new 
+- Created features ideas and supplements. Other examples include introducing live video from events. 
+- Produced Javascript-based applications for viewing complex data. 
 
 ## Education
 
