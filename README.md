@@ -1,6 +1,6 @@
 ## James Quilter
 
-I am a former journalist and content marketer specialising in sectors as diverse as advertising agencies to wind turbines. Previous companies include Twitter and Haymarket Business Publishing. In addition to this, I am set to learn to code at Makers Academy. 
+I am a former journalist and content marketer specialising in sectors as diverse as advertising agencies to wind turbines. Previous companies include Twitter and Haymarket Business Publishing. However, as great as all of this was, I just love to writing software applications. So, as a result, I am set to learn to code at Makers Academy. 
 
 ## Skills
 
