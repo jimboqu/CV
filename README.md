@@ -1,10 +1,10 @@
-## Your Name
+## James Quilter
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a former journalist and content marketer specialising in sectors as diverse as advertising agencies to wind turbines. Previous companies include Twitter and Haymarket Business Publishing. In addition to this, I am set to learn to code at Makers Academy. 
 
 ## Skills
 
-#### This Skill
+#### Analysis
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
