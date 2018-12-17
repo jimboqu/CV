@@ -4,6 +4,13 @@ I am a former journalist and content marketer specialising in sectors as diverse
 
 ## Skills
 
+#### Writing, Editing, and Journalism
+
+
+
+- Experience - Marketing Magazine, Brand Republic, Windpower Monthly.
+- Achievements - Launched Windpowermonthly.com, which was nominated as Best Business Magazine Site by the Periodical Publishers Association in 2013. 
+
 #### Analysis
 
 During my journalistic career I developed an ability to understand and simplify complex ideas and stories and convey them to a specific audience. A good example of this is Windpower Monthly magazine, which I joined without any experience of knowledge of the renewable energy and wind turbine engineering. Within weeks I was able to understand and create content for a highly knowledeable audience.
@@ -23,7 +30,7 @@ A key strength is the ability to solve problems creatively. A good example of th
 
 During my journalistic career I worked up from reporter on a print title to building and editing online titles. Frequently, this involved collaborating with the engineering teams, as well as sales, events and other areas of the company. Separately, I have also been responsible for training and bringing through new reporters on the team, and managing external correspondents. 
 
-- Launching new 
+- Launching new products
 - Created features ideas and supplements. Other examples include introducing live video from events. 
 - Produced Javascript-based applications for viewing complex data. 
 
@@ -48,17 +55,17 @@ During my journalistic career I worked up from reporter on a print title to buil
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### London College of Printing
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Journalism
+- Post-graduate Certificate in Journalism
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Twitter** (start_date to end_date)    
+*Editorial Marketing Manager*  
+**Freelance** (start_date to end_date)   
+* Content Marketing Specialiste*  
+
