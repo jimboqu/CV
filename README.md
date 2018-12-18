@@ -27,6 +27,8 @@ An ability to solve creative challenges. A good example of this was during my ti
 
 During my journalistic career I worked up from reporter on a print title to building and editing online titles. Frequently, this involved collaborating with the engineering teams, as well as sales, events and other areas of the company. Separately, I have also been responsible for training and bringing through new reporters on the team, and managing external correspondents. 
 
+In short, I am used to working in teams and understand the value and importance of teamwork. 
+
 - Launching new products
 - Created features ideas and supplements. Other examples include introducing live video from events. 
 - Produced Javascript-based applications for viewing complex data. 
