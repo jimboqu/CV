@@ -1,6 +1,6 @@
 ## James Quilter
 
-[Journalism](#journalism) | [Creativity](#creativity) | 
+[Journalism](#journalism) | [Creativity](#creativity) | [Management](#management) | 
 
 I am a former journalist and content marketer specialising in sectors as diverse as advertising agencies to wind turbines. Previous companies include Twitter and Haymarket Business Publishing. However, as great as all of this was, I just love to writing software applications. So, as a result, I am set to learn to code at Makers Academy. 
 
@@ -22,7 +22,7 @@ An ability to solve creative challenges. A good example of this was during my ti
 - Created features ideas and supplements. Other examples include introducing live video from events. 
 - Produced Javascript-based applications for viewing complex data. 
 
-#### Management
+#### <a name="management">Management</a>
 
 During my journalistic career I worked up from reporter on a print title to building and editing online titles. Frequently, this involved collaborating with the engineering teams, as well as sales, events and other areas of the company. Separately, I have also been responsible for training and bringing through new reporters on the team, and managing external correspondents. 
 
