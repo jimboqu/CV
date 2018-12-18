@@ -1,8 +1,8 @@
 ## James Quilter
 
-[Journalism](#journalism) | [Creativity](#creativity) | [Management](#management) | 
+[Journalism](#journalism) | [Creativity](#creativity) | [Management](#management) | [About-me](#about-me) | [Background](#background)
 
-I am a former journalist and content marketer specialising in sectors as diverse as advertising agencies to wind turbines. Previous companies include Twitter and Haymarket Business Publishing. However, as great as all of this was, I love to code. So, as a result, I am set to go to Makers Academy. 
+I am a former journalist and content marketer specialising in sectors as diverse as advertising agencies to wind turbines. Previous companies include Twitter and Haymarket Business Publishing. However, as great as all of this was, I love to code. So, as a result, I am set to graduate from Makers Academy at end-March. 
 
 ## Skills
 
@@ -31,7 +31,7 @@ During my journalistic career I worked up from reporter on a print title to buil
 - Created features ideas and supplements. Other examples include introducing live video from events. 
 - Produced Javascript-based applications for viewing complex data. 
 
-#### Self-Starter
+#### <a name="#about-me">Self-Starter</a>
 
 I worked up from reporter on a print title to building and editing online titles. Frequently, this involved collaborating with the engineering teams, as well as sales, events and other areas of the company. Separately, I have also been responsible for training and bringing through new reporters on the team, and managing external correspondents. 
 
@@ -39,7 +39,7 @@ I worked up from reporter on a print title to building and editing online titles
 - Created features ideas and supplements. Other examples include introducing live video from events. 
 - Produced Javascript-based applications for viewing complex data models. 
 
-## Education
+## <a name="#background">Education</a>
 
 #### Makers Academy (start_date to end_date)
 
