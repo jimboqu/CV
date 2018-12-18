@@ -6,16 +6,9 @@ I am a former journalist and content marketer specialising in sectors as diverse
 
 #### Writing, Editing, and Journalism
 
+Throughout my career, I have consistently worked with other teams - sales, editors, external partners and subjects - to produce quality content and journalism. This has required teamwork as well as individual application. 
 
-
-- Experience - Marketing Magazine, Brand Republic, Windpower Monthly.
-- Achievements - Launched Windpowermonthly.com, which was nominated as Best Business Magazine Site by the Periodical Publishers Association in 2013. 
-
-#### Analysis
-
-During my journalistic career I developed an ability to understand and simplify complex ideas and stories and convey them to a specific audience. A good example of this is Windpower Monthly magazine, which I joined without any experience of knowledge of the renewable energy and wind turbine engineering. Within weeks I was able to understand and create content for a highly knowledeable audience.
-
-- Experience - Marketing Magazine, Brand Republic, Windpower Monthly.
+- Experience - Marketing Magazine, Brand Republic, Windpower Monthly. Covering Energy, Retail, Media, Finance, and Automotive.
 - Achievements - Launched Windpowermonthly.com, which was nominated as Best Business Magazine Site by the Periodical Publishers Association in 2013. 
 
 #### Creativity
@@ -36,11 +29,11 @@ During my journalistic career I worked up from reporter on a print title to buil
 
 #### Self-Starter
 
-During my journalistic career I worked up from reporter on a print title to building and editing online titles. Frequently, this involved collaborating with the engineering teams, as well as sales, events and other areas of the company. Separately, I have also been responsible for training and bringing through new reporters on the team, and managing external correspondents. 
+I worked up from reporter on a print title to building and editing online titles. Frequently, this involved collaborating with the engineering teams, as well as sales, events and other areas of the company. Separately, I have also been responsible for training and bringing through new reporters on the team, and managing external correspondents. 
 
-- Launching new 
+- Launched my own content marketing consultancy. 
 - Created features ideas and supplements. Other examples include introducing live video from events. 
-- Produced Javascript-based applications for viewing complex data. 
+- Produced Javascript-based applications for viewing complex data models. 
 
 ## Education
 
@@ -60,12 +53,15 @@ During my journalistic career I worked up from reporter on a print title to buil
 - Journalism
 - Post-graduate Certificate in Journalism
 
-#### Any other qualifications
-
 ## Experience
 
-**Twitter** (start_date to end_date)    
+**Twitter** (February 2017 to August 2018)    
 *Editorial Marketing Manager*  
-**Freelance** (start_date to end_date)   
-* Content Marketing Specialiste*  
-
+**Freelance** (2015 to 2018)   
+*Content Marketing Specialist*  
+**Haymarket Media Group** (2005-2015)    
+*Editorial Marketing Manager*  
+**Haymarket Media Group** (2005-2015)    
+*Editorial Marketing Manager*
+**Leagas Delaney Advertising** (1999-2001)   
+*Project Manager*  
