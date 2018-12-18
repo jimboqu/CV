@@ -2,17 +2,18 @@
 
 [Journalism](#journalism) | [Creativity](#creativity) | [Management](#management) | 
 
-I am a former journalist and content marketer specialising in sectors as diverse as advertising agencies to wind turbines. Previous companies include Twitter and Haymarket Business Publishing. However, as great as all of this was, I just love to writing software applications. So, as a result, I am set to learn to code at Makers Academy. 
+I am a former journalist and content marketer specialising in sectors as diverse as advertising agencies to wind turbines. Previous companies include Twitter and Haymarket Business Publishing. However, as great as all of this was, I love to code. So, as a result, I am set to go to Makers Academy. 
 
 ## Skills
 
 #### <a name="journalism">Writing, Editing, and Journalism</a>
 
-Throughout my career, I have consistently worked with other teams - sales, editors, external partners and subjects - to produce quality content and journalism. This has required teamwork as well as individual application. 
+Throughout my career, I have consistently worked with other teams - sales, editors, external partners and subjects - to produce quality content and journalism. This has required cooperation as well as individual application. 
 
-- Experience - Marketing Magazine, Brand Republic, Windpower Monthly.
+- Skills - SEO, writing, photo and video editing, infographics, social media marketing. 
+- Experience - Twitter, Marketing Magazine, Brand Republic, Windpower Monthly.
 - Sectors - Energy, Retail, Media, Finance, and Automotive.
-- Achievements - Launched Windpowermonthly.com, which was nominated as Best Business Magazine Site by the Periodical Publishers Association in 2013. 
+- Achievements - Launched Windpowermonthly.com. Nominated as Best Business Magazine Site by the Periodical Publishers Association in 2013. 
 
 #### <a name="creatvity">Creativity</a>
 
