@@ -1,6 +1,6 @@
 ## James Quilter
 
-[Journalism](#skills)
+[Journalism](#journalism) | [Creativity] (#creativity) | 
 
 I am a former journalist and content marketer specialising in sectors as diverse as advertising agencies to wind turbines. Previous companies include Twitter and Haymarket Business Publishing. However, as great as all of this was, I just love to writing software applications. So, as a result, I am set to learn to code at Makers Academy. 
 
@@ -14,7 +14,7 @@ Throughout my career, I have consistently worked with other teams - sales, edito
 - Sectors - Energy, Retail, Media, Finance, and Automotive.
 - Achievements - Launched Windpowermonthly.com, which was nominated as Best Business Magazine Site by the Periodical Publishers Association in 2013. 
 
-#### Creativity
+#### <a name="creatvity">Creativity</a>
 
 An ability to solve creative challenges. A good example of this was during my time at Twitter where I ran the World Cup 2018 B2B marketing campaign for EMEA. In journalism, I worked with the sales team to create revenue driving products such as the introduction of live video to events while at Windpower Monthly. 
 
