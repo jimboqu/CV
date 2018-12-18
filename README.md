@@ -6,7 +6,7 @@ I am a former journalist and content marketer specialising in sectors as diverse
 
 ## Skills
 
-<a name="journalism">#### Writing, Editing, and Journalism</a>
+#### <a name="journalism">Writing, Editing, and Journalism</a>
 
 Throughout my career, I have consistently worked with other teams - sales, editors, external partners and subjects - to produce quality content and journalism. This has required teamwork as well as individual application. 
 
