@@ -1,5 +1,9 @@
 ## James Quilter
 
+Former journalist, marketer, and now a developer
+
+***
+
 [Journalism](#journalism) | [Creativity](#creativity) | [Team-Ethos](#management) | [About-me](#about-me) | [Background](#background)
 
 I am a former journalist and content marketer specialising in sectors as diverse as advertising agencies to wind turbines. Previous companies include Twitter and Haymarket Business Publishing. However, as great as all of this was, I love to code. So, as a result, I am set to graduate from Makers Academy at end-March. 
