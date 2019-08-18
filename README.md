@@ -1,6 +1,6 @@
 ## James Quilter
 
-Former journalist, marketer, and now a developer
+Content Marketing Editor and Strategist
 
 ***
 
